@@ -1,2 +1,3 @@
--  Apreniendo los siguientes lenguajes de programación:
-  -  *Pyhton
+-  *Películas favoritas*:
+  - Whiplash (2014)
+  - Amadeus (1984)
