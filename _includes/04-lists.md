@@ -1,2 +1,2 @@
 -  Apreniendo los siguientes lenguajes de programación:
-  -  Pyhton
+  -  *Pyhton
